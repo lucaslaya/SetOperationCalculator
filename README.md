@@ -26,6 +26,7 @@ pip install pillow
 ```
 
 ## Usage
+Run main.py <br />
 The calculator is fairly simple to use just follow the instructions output in console to pick a calculator mode. Once in the desired GUI simply input your values in the bars at the top. The answers for each operation are displayed under the diagrams explaining the calculation. For ease of viewing all of the answers are also output to the console. To close just simply close the GUI window.
 
 ## Acknowledgements

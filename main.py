@@ -2,6 +2,13 @@
 # Made by Lucas Laya
 # Discord: Lucass#0420
 
+import sys
+
+from tkinter import *
+import itertools
+from itertools import chain, combinations
+from PIL import Image, ImageTk
+
 def union(a,b,c={0}):   #Union calculator
     if c == {0}:
         ans = a|b
@@ -64,13 +71,6 @@ Author: Don Rozenberg
 Date: 2021
 Code version: 6.1
 Availability: http://page.sourceforge.net/ """
-
-import sys
-
-from tkinter import *
-import itertools
-from itertools import chain, combinations
-from PIL import Image, ImageTk
 
 def calculate2set():    #Calculate all of the solutions for 2 set inputs
     A = a.get()             #Convert input A to set

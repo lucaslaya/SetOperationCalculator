@@ -5,13 +5,13 @@ GitHub Repo: https://github.com/lucaslaya/SetOperationCalculator
 
 ## Description
 This is a class project made for CS1800. It's a simple calculator with multiple GUI's for the following set operations: <br />
--Union <br />
--Intersection <br />
--Complement <br />
--Difference <br />
--Symmetric Difference <br />
--Power Set <br />
--Cartesian Product <br />
+-Union (2 or 3 sets) <br />
+-Intersection (2 or 3 sets) <br />
+-Complement (1 set) <br />
+-Difference (2 sets) <br />
+-Symmetric Difference (2 sets) <br />
+-Power Set (1 set) <br />
+-Cartesian Product (2 or 3 sets) <br />
 
 ## Installation
 Runs on Python3 <br />

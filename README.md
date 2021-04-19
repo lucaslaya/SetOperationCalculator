@@ -1,7 +1,7 @@
 # SetOperationCalculator
 Made By Lucas Laya Marina <br />
 Discord: Lucass#0420 <br />
-GitHub Repo: 
+GitHub Repo: https://github.com/lucaslaya/SetOperationCalculator
 
 ## Description
 This is a class project made for CS1800. It's a simple calculator with multiple GUI's for the following set operations: <br />

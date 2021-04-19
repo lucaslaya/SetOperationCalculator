@@ -29,4 +29,4 @@ pip install pillow
 The calculator is fairly simple to use just follow the instructions output in console to pick a calculator mode. Once in the desired GUI simply input your values in the bars at the top. The answers for each operation are displayed under the diagrams explaining the calculation. For ease of viewing all of the answers are also output to the console. To close just simply close the GUI window.
 
 ## Acknowledgements
-Thank you so much to Don Rozenberg for creating PAGE. [PAGE](http://page.sourceforge.net/) is a GUI code generator I used for easily positioning items on the GUI. Most of the initialization code has been changed but I would have hated myself without this. 
+Thank you so much to Don Rozenberg for creating PAGE. [PAGE](http://page.sourceforge.net/) is a GUI code generator I used for easily positioning items on the GUI. Most of the initialization code has been changed but this saved a lot of time.
